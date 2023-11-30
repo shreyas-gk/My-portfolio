@@ -15,6 +15,13 @@ function Home() {
           <EmailIcon />
           <GithubIcon />
         </div>
+        <p>
+          I am a dedicated cloud computing professional with a Post Graduate Certificate
+          in Cloud Computing and AWS Certified Developer Associate Certification.
+          Skilled in architecting scalable cloud solutions, I am passionate about leveraging
+          cloud technologies to drive innovation. Eager to contribute my expertise to
+          transformative projects in the cloud computing realm.
+        </p>
       </div>
       <div className="skills">
         <h1> Skills</h1>
