@@ -18,18 +18,18 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random High School, Random Place, Random State
+            VVS Sardar Patel High School, Bangalore, Karnataka
           </h3>
           <p> High School Diploma</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2014 - 2018"
+          date="2012 - 2013"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Cool University, Vancouver, British Columbia
+            JSS Academy of Technical Education(VTU), Bangalore, India
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
@@ -40,36 +40,67 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018 - 2020"
+          date="2017 - 2021"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Back End Engineer - Google
+            Student Intern - Inube Software Solutions
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
+            Bangalore, India
           </h4>
-          <p>Developed the backend infrastructure for 3 projects.</p>
+          <p>Crafted backend solutions for a project during a two-month internship, focusing on React frontend development.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2020 - present"
+          date="Jun 202 - July 2020"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Full Stack Engineer - Twitch
+            Student Intern - Exposys Data Labs
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
+            Bangalore, India
           </h4>
           <p>
-            Helped the team launch 2 major features by working both in the front
-            end and back end.
+          Aspiring Python Developer with AI and ML skills, honed during a dynamic internship at Exposys Data Labs, specializing in regression, data modeling, and statistical analysis.
           </p>
         </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Dec 2021 - Jan 2020"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Client Serving Contractor for EY - Xpheno Data Labs Pvt. Ltd.
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Bangalore, India
+          </h4>
+          <p>
+          Automated diverse processes using Python, encompassing front-end development, Excel, SAP, and digital data extraction for efficient and streamlined operations.
+          </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Jan 2021 - May 2023"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Senior Analyst - Ernst & Young LLP
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Bangalore, India
+          </h4>
+          <p>
+          Developed serverless Python applications, orchestrating front-end automation across browsers, SAP, Salesforce, Excel, and digital PDFs. Executed DevOps tasks and seamlessly integrated cloud-based solutions on AWS for enhanced efficiency.
+          </p>
+        </VerticalTimelineElement>       
       </VerticalTimeline>
     </div>
   );
